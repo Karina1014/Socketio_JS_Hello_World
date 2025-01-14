@@ -9,13 +9,13 @@ This project showcases a simple **Node.js** and **Socket.IO** based application 
 1. **Node.js version**: Verify your installed version with the command:
 ```sh
 node --version
-
+```
 
 ## 📥 Installation
 1.- Clone the repository
 
    ```sh
-   git clone 
+   git clone https://github.com/Karina1014/Socketio_JS_Hello_World.git
   ```
 2.- install dependency necessary
 
@@ -36,3 +36,7 @@ npm run dev
 ```sh
 http://localhost:5173/
 ```
+# Result:
+![image](https://github.com/user-attachments/assets/c6599297-fe03-48d1-89f5-3db6c9abf85c)
+
+![image](https://github.com/user-attachments/assets/029b1d2b-ea83-437e-a314-108563aeb188)
